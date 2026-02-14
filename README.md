@@ -8,3 +8,6 @@ I kinda abandoned my pc-crasher since 2025
 but im now reworking it now
 im now on this account cuz im obviously locked out of
 AaronGithubFiles.
+
+Just note that while your using the tool
+Your BSOD may get delayed tho
